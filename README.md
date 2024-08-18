@@ -33,7 +33,7 @@ Test script provided by Udacity
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@anhlnfpt/who-will-receive-the-promo-code-09df24d0e38e).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Test.csv and training.csv data is provided by Udacity  
